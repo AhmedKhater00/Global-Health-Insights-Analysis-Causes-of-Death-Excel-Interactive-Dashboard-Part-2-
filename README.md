@@ -77,7 +77,7 @@ The dataset for this analysis is sourced from a global health repository, ensuri
 ## Reports:
 Reports were created to effectively communicate the insights and finding from the data analysis.
 
-
+![Global Health Analysis](https://github.com/manar448/Global-Health-Insights-Analysis-Causes-of-Death-Excel-/raw/main/1.png)
 
 ## Conclusion
 This project has provided significant insights into global health trends, particularly the rise of cardiovascular diseases. The integration of Excel as a data analysis tool has demonstrated the power of spreadsheets in deriving meaningful insights. The interactive dashboard enhances user experience and understanding of the data, making it a valuable resource for public health policy discussions.
