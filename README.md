@@ -82,4 +82,5 @@ For inquiries or collaboration opportunities, please reach out to me:
 
 **Name**: Manar Alaa  
 **Email**: [Manaralaa962@gmail.com](mailto:Manaralaa962@gmail.com)  
-**LinkedIn**: [Manar Alaa]([https://www.linkedin.com/in/manar-alaa-1787211b0])  
+**LinkedIn**: [Manar Alaa](https://www.linkedin.com/in/manar-alaa-1787211b0/)
+  
