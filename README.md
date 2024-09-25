@@ -82,4 +82,4 @@ For inquiries or collaboration opportunities, please reach out to me:
 
 **Name**: Manar Alaa  
 **Email**: [Manaralaa962@gmail.com](mailto:Manaralaa962@gmail.com)  
-**LinkedIn**: [Manar Alaa]([https://www.linkedin.com/in/ahmed-khater-1bb2a324a](https://www.linkedin.com/in/manar-alaa-1787211b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+**LinkedIn**: [Manar Alaa]([https://www.linkedin.com/in/manar-alaa-1787211b0/])  
