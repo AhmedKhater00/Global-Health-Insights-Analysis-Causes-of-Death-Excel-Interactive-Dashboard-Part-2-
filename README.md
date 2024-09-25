@@ -74,6 +74,11 @@ The dataset for this analysis is sourced from a global health repository, ensuri
 ### Visualizations
 - Multiple interactive visualizations were created in Excel to illustrate key insights, focusing on clarity and engagement.
 
+## Reports:
+Reports were created to effectively communicate the insights and finding from the data analysis.
+
+
+
 ## Conclusion
 This project has provided significant insights into global health trends, particularly the rise of cardiovascular diseases. The integration of Excel as a data analysis tool has demonstrated the power of spreadsheets in deriving meaningful insights. The interactive dashboard enhances user experience and understanding of the data, making it a valuable resource for public health policy discussions.
 
