@@ -85,7 +85,22 @@ This project has provided significant insights into global health trends, partic
 ## Contact
 For inquiries or collaboration opportunities, please reach out to me:
 
-**Name**: Manar Alaa  
-**Email**: [Manaralaa962@gmail.com](mailto:Manaralaa962@gmail.com)  
-**LinkedIn**: [Manar Alaa](https://www.linkedin.com/in/manar-alaa-1787211b0/)
+## Contact  Our Team
+For collaboration or inquiries, feel free to reach out.
+
+- Name: Sara ELdamarany  
+- Email: [saraeldamarany@gmail.com](mailto:khatermedo664@gmail.com)  
+- LinkedIn: [Sara Eldamarany](https://www.linkedin.com/in/saraeldamarany/)
+
+   --- 
+
+- Name: Manar Alaa  
+- Email: [Manaralaa962@gmail.com](mailto:Manaralaa962@gmail.com)  
+- LinkedIn: [Manar Alaa](https://www.linkedin.com/in/manar-alaa-1787211b0/)
+
+   ---
+
+- Name: Ahmed Khater
+- Email: [khatermedo664@gmail.com]
+- LinkedIn: [Ahmed Khater](https://www.linkedin.com/in/ahmed-khater-1bb2a324a)
   
